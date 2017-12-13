@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahtahantest.github.io" resolutions="1x" timestamp="1513181894028">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3896801349" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-1357x904.svg" crc="4034606762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1357x904_poster_.png" crc="382019923" ref="index"/>
+    <file name="pasted-svg-262689x45.svg" crc="4031922511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 262689x45_poster_.png" crc="4018703126" ref="index"/>
+    <file name="pasted-svg-37688x37.svg" crc="4204897206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 37688x37_poster_.png" crc="518819664" ref="index"/>
+    <file name="pasted-svg-408785x408.svg" crc="4119772762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 408785x408_poster_.png" crc="4001322138" ref="index"/>
+    <file name="pasted-svg-551034x551.svg" crc="3988254872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 551034x551_poster_.png" crc="126243477" ref="index"/>
+    <file name="pasted-svg-512016x477.svg" crc="49160905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 512016x477_poster_.png" crc="3861560413" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4019169610" seo="true" mt="1513179974928" redirect="true"/>
+</manifest>
