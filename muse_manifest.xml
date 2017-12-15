@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahtahantest.github.io" resolutions="1x" timestamp="1513183917426">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahtahantest.github.io" resolutions="1x" timestamp="1513341020283">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4098099679" ref="index"/>
-    <file name="nomq_index.css" crc="4222571881" ref="index"/>
+    <file name="index.css" crc="335568012" ref="index"/>
+    <file name="nomq_index.css" crc="4133485442" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -46,5 +46,5 @@
     <file name="pasted svg 512016x477_poster_.png" crc="3861560413" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="291821434" seo="true" mt="1513183908475" redirect="true"/>
+  <file name="index.html" crc="3878409071" seo="true" mt="1513341015020" redirect="true"/>
 </manifest>
