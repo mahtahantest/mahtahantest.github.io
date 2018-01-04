@@ -1,50 +1,143 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahtahantest.github.io" resolutions="1x" timestamp="1513341020283">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahtahantest.github.io" resolutions="1x" timestamp="1515065798845">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="335568012" ref="index"/>
-    <file name="nomq_index.css" crc="4133485442" ref="index"/>
+    <file name="site_global.css" crc="4000877971"/>
+    <file name="master_a-master.css" crc="3982916555" ref="services:about:curriculum-vitae:index:blog:sinjaba-group:portfolio"/>
+    <file name="master_a-master-copy.css" crc="482462789" ref="coming-soon"/>
+    <file name="coming-soon.css" crc="41264864" ref="coming-soon"/>
+    <file name="services.css" crc="4241038707" ref="services"/>
+    <file name="iefonts_services.css" crc="4113003061" ref="services"/>
+    <file name="about.css" crc="4241038707" ref="about"/>
+    <file name="iefonts_about.css" crc="4113003061" ref="about"/>
+    <file name="curriculum-vitae.css" crc="4241038707" ref="curriculum-vitae"/>
+    <file name="iefonts_curriculum-vitae.css" crc="4113003061" ref="curriculum-vitae"/>
+    <file name="index.css" crc="4097086464" ref="index"/>
+    <file name="iefonts_index.css" crc="278589450" ref="index"/>
+    <file name="blog.css" crc="4241038707" ref="blog"/>
+    <file name="iefonts_blog.css" crc="4113003061" ref="blog"/>
+    <file name="sinjaba-group.css" crc="312929278" ref="sinjaba-group"/>
+    <file name="iefonts_sinjaba-group.css" crc="4044983545" ref="sinjaba-group"/>
+    <file name="portfolio.css" crc="3925502883" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="4113003061" ref="portfolio"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.svg" crc="4090461190" seo="true" mt="1514721514000"/>
+    <file name="mah-fav-icon_artboard-1.jpg" crc="4126859625" seo="true" mt="1514985876000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:coming-soon"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-1357x904.svg" crc="4034606762" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1357x904_poster_.png" crc="382019923" ref="index"/>
-    <file name="pasted-svg-262689x45.svg" crc="4031922511" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="a-master-favicon.ico" crc="117845916" ref="index"/>
+    <file name="mah website bg-01-01-u4975-fr.jpg" crc="237453482" ref="index"/>
+    <file name="u98-4.png" crc="211056997" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
+    <file name="element07.svg" crc="4073776678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 262689x45_poster_.png" crc="4018703126" ref="index"/>
-    <file name="pasted-svg-37688x37.svg" crc="4204897206" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 37688x37_poster_.png" crc="518819664" ref="index"/>
-    <file name="pasted-svg-408785x408.svg" crc="4119772762" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="element07_poster_.png" crc="364301473" ref="index"/>
+    <file name="u2250-4.png" crc="267644929" ref="index"/>
+    <file name="element03.svg" crc="242099973" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 408785x408_poster_.png" crc="4001322138" ref="index"/>
-    <file name="pasted-svg-551034x551.svg" crc="3988254872" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 551034x551_poster_.png" crc="126243477" ref="index"/>
-    <file name="pasted-svg-512016x477.svg" crc="49160905" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="element03_poster_.png" crc="4154126642" ref="index"/>
+    <file name="element06.svg" crc="309931655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 512016x477_poster_.png" crc="3861560413" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="element06_poster_.png" crc="491970412" ref="index"/>
+    <file name="facebook_alt-u328.png" crc="4285142855" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
+    <file name="linkedin_alt-u348.png" crc="3923311560" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
+    <file name="arrow07-u4845.png" crc="215199237" ref="index"/>
+    <file name="element01.svg" crc="322871333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element01_poster_.png" crc="419905739" ref="index"/>
+    <file name="mah website pattern smaller-01-u4393-fr.png" crc="4170522588" ref="index:sinjaba-group"/>
+    <file name="u4359-6.png" crc="494936625" ref="index"/>
+    <file name="003-mortarboard.svg" crc="463699225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-mortarboard_poster_.png" crc="408904258" ref="index"/>
+    <file name="002-briefcase.svg" crc="4142524526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-briefcase_poster_.png" crc="377299708" ref="index"/>
+    <file name="001-network.svg" crc="4153231575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-network_poster_.png" crc="91930954" ref="index"/>
+    <file name="ripple separator-01.jpg" crc="3899385317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5616-4.png" crc="424437039" ref="index"/>
+    <file name="u5693-6.png" crc="3762794571" ref="index"/>
+    <file name="element02.svg" crc="17178248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element02_poster_.png" crc="451872189" ref="index"/>
+    <file name="u5907-6.png" crc="3777825103" ref="index"/>
+    <file name="fb-logo-(black_svg).svg" crc="61187214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb logo (black_svg)_poster_.png" crc="127364804" ref="index"/>
+    <file name="twitter-logo-(black_svg).svg" crc="88690003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter logo (black_svg)_poster_.png" crc="4081438414" ref="index"/>
+    <file name="linkedin-logo-(black_svg).svg" crc="141029368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin logo (black_svg)_poster_.png" crc="3922476296" ref="index"/>
+    <file name="instagram-logo-(black_svg).svg" crc="4168066208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram logo (black_svg)_poster_.png" crc="4159427888" ref="index"/>
+    <file name="u5701-4.png" crc="4254323779" ref="index"/>
+    <file name="a-master-copy-favicon.ico" crc="117845916" ref="coming-soon"/>
+    <file name="mah website bg-01-01.jpg" crc="3950151874" ref="coming-soon">
+      <caption webpage="coming-soon" alt=""/>
+    </file>
+    <file name="mah website pattern smaller-01-buttonu6187-fr.png" crc="4073060437" ref="coming-soon"/>
+    <file name="u6069-4.png" crc="348402529" ref="coming-soon"/>
+    <file name="u6334-4.png" crc="74004034" ref="sinjaba-group"/>
+    <file name="u6378-4.png" crc="3791760020" ref="sinjaba-group"/>
+    <file name="u6439-4.png" crc="4126979128" ref="sinjaba-group"/>
+    <file name="pasted-svg-4932x128.svg" crc="3844439126" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="pasted svg 4932x128_poster_.png" crc="233574531" ref="sinjaba-group"/>
+    <file name="u6874-4.png" crc="4024530498" ref="sinjaba-group"/>
+    <file name="sinjaba-personality.svg" crc="487292728" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="sinjaba personality_poster_.png" crc="516998963" ref="sinjaba-group"/>
+    <file name="geo.svg" crc="65593812" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="geo_poster_.png" crc="3819560156" ref="sinjaba-group"/>
+    <file name="gender.svg" crc="4157763071" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="gender_poster_.png" crc="72122438" ref="sinjaba-group"/>
+    <file name="age.svg" crc="3965429642" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="age_poster_.png" crc="4027433298" ref="sinjaba-group"/>
+    <file name="behavior.svg" crc="427735741" seo="true" ref="sinjaba-group">
+      <caption webpage="sinjaba-group" alt=""/>
+    </file>
+    <file name="behavior_poster_.png" crc="221118185" ref="sinjaba-group"/>
   </folder>
-  <file name="index.html" crc="3878409071" seo="true" mt="1513341015020" redirect="true"/>
+  <file name="index.html" crc="77172493" seo="true" mt="1515065795739" redirect="true"/>
+  <file name="about.html" crc="3825387234" seo="true" mt="1514985910557" redirect="true"/>
+  <file name="portfolio.html" crc="4124074607" seo="true" mt="1514985910557" redirect="true"/>
+  <file name="blog.html" crc="260336589" seo="true" mt="1514985910557" redirect="true"/>
+  <file name="curriculum-vitae.html" crc="394110595" seo="true" mt="1514985910557" redirect="true"/>
+  <file name="coming-soon.html" crc="3778263145" seo="true" mt="1515065795742" redirect="true"/>
+  <file name="sinjaba-group.html" crc="531690003" seo="true" mt="1515000362470" redirect="true"/>
+  <file name="services.html" crc="4045305516" seo="true" mt="1514987558885" redirect="true"/>
 </manifest>

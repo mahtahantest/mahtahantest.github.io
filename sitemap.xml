@@ -1,27 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mahtahantest.github.io/index.html</loc>
-    <lastmod>2017-12-15</lastmod>
+    <loc>http://www.mahtahantest.github.io/index.html</loc>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-1357x904.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/element07.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-262689x45.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/element03.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-37688x37.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/element06.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-408785x408.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/element01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-551034x551.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/003-mortarboard.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mahtahantest.github.io/images/pasted-svg-512016x477.svg</image:loc>
+      <image:loc>http://www.mahtahantest.github.io/images/002-briefcase.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/001-network.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/element02.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/fb-logo-(black_svg).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/twitter-logo-(black_svg).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/linkedin-logo-(black_svg).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/instagram-logo-(black_svg).svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/blog.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/curriculum-vitae.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/about.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/portfolio.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/coming-soon.html</loc>
+    <lastmod>2018-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/sinjaba-group.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/pasted-svg-4932x128.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/sinjaba-personality.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/geo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/gender.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/age.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahtahantest.github.io/images/behavior.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/services.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/assets/logo.svg</loc>
+    <lastmod>2017-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.mahtahantest.github.io/assets/mah-fav-icon_artboard-1.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
