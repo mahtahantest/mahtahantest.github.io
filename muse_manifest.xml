@@ -1,143 +1,256 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahtahantest.github.io" resolutions="1x" timestamp="1515065798845">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahmoudtahan.com" resolutions="1x" timestamp="1538688366891">
   <folder name="css">
-    <file name="site_global.css" crc="4000877971"/>
-    <file name="master_a-master.css" crc="3982916555" ref="services:about:curriculum-vitae:index:blog:sinjaba-group:portfolio"/>
-    <file name="master_a-master-copy.css" crc="482462789" ref="coming-soon"/>
-    <file name="coming-soon.css" crc="41264864" ref="coming-soon"/>
-    <file name="services.css" crc="4241038707" ref="services"/>
-    <file name="iefonts_services.css" crc="4113003061" ref="services"/>
-    <file name="about.css" crc="4241038707" ref="about"/>
-    <file name="iefonts_about.css" crc="4113003061" ref="about"/>
-    <file name="curriculum-vitae.css" crc="4241038707" ref="curriculum-vitae"/>
-    <file name="iefonts_curriculum-vitae.css" crc="4113003061" ref="curriculum-vitae"/>
-    <file name="index.css" crc="4097086464" ref="index"/>
-    <file name="iefonts_index.css" crc="278589450" ref="index"/>
-    <file name="blog.css" crc="4241038707" ref="blog"/>
-    <file name="iefonts_blog.css" crc="4113003061" ref="blog"/>
-    <file name="sinjaba-group.css" crc="312929278" ref="sinjaba-group"/>
-    <file name="iefonts_sinjaba-group.css" crc="4044983545" ref="sinjaba-group"/>
-    <file name="portfolio.css" crc="3925502883" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="4113003061" ref="portfolio"/>
+    <file name="site_global.css" crc="3817991472"/>
+    <file name="master_a-master.css" crc="4031339464" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="373715939" ref="index"/>
+    <file name="nomq_index.css" crc="423585970" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="logo.svg" crc="4090461190" seo="true" mt="1514721514000"/>
-    <file name="mah-fav-icon_artboard-1.jpg" crc="4126859625" seo="true" mt="1514985876000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:coming-soon"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
-    <file name="require.js" crc="4157109226" ref="index:about:portfolio:blog:curriculum-vitae:coming-soon:sinjaba-group:services"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4051681101" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="117845916" ref="index"/>
-    <file name="mah website bg-01-01-u4975-fr.jpg" crc="237453482" ref="index"/>
-    <file name="u98-4.png" crc="211056997" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
+    <file name="u112-5.png" crc="158152437" ref="index"/>
     <file name="element07.svg" crc="4073776678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="element07_poster_.png" crc="364301473" ref="index"/>
-    <file name="u2250-4.png" crc="267644929" ref="index"/>
-    <file name="element03.svg" crc="242099973" seo="true" ref="index">
+    <file name="asset 6mahtah.png" crc="491606555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="element03_poster_.png" crc="4154126642" ref="index"/>
-    <file name="element06.svg" crc="309931655" seo="true" ref="index">
+    <file name="asset 1mahtah.png" crc="4031230591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="element06_poster_.png" crc="491970412" ref="index"/>
-    <file name="facebook_alt-u328.png" crc="4285142855" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
-    <file name="linkedin_alt-u348.png" crc="3923311560" ref="index:about:portfolio:blog:curriculum-vitae:sinjaba-group:services"/>
-    <file name="arrow07-u4845.png" crc="215199237" ref="index"/>
-    <file name="element01.svg" crc="322871333" seo="true" ref="index">
+    <file name="asset 2mahtah.png" crc="4076574515" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="element01_poster_.png" crc="419905739" ref="index"/>
-    <file name="mah website pattern smaller-01-u4393-fr.png" crc="4170522588" ref="index:sinjaba-group"/>
-    <file name="u4359-6.png" crc="494936625" ref="index"/>
-    <file name="003-mortarboard.svg" crc="463699225" seo="true" ref="index">
+    <file name="asset 3mahtah.png" crc="99920892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="003-mortarboard_poster_.png" crc="408904258" ref="index"/>
-    <file name="002-briefcase.svg" crc="4142524526" seo="true" ref="index">
+    <file name="me new flipped.png" crc="344281588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="002-briefcase_poster_.png" crc="377299708" ref="index"/>
-    <file name="001-network.svg" crc="4153231575" seo="true" ref="index">
+    <file name="asset 7mahtah.png" crc="4153638516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="001-network_poster_.png" crc="91930954" ref="index"/>
-    <file name="ripple separator-01.jpg" crc="3899385317" ref="index">
+    <file name="asset 4mahtah.png" crc="3979996133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5616-4.png" crc="424437039" ref="index"/>
-    <file name="u5693-6.png" crc="3762794571" ref="index"/>
-    <file name="element02.svg" crc="17178248" seo="true" ref="index">
+    <file name="asset 5mahtah.png" crc="422673962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="element02_poster_.png" crc="451872189" ref="index"/>
-    <file name="u5907-6.png" crc="3777825103" ref="index"/>
+    <file name="asset 9mahtah.png" crc="62374517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coursera.jpg" crc="306014533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1200px-northwestern_university_sealsvg.png" crc="3928662466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hs-marketing-inbound-certification 2.png" crc="4269043655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb b-w.png" crc="415470355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google b-w.png" crc="4238322425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mah website pattern smaller-01-u1169-fr.png" crc="126647599" ref="index"/>
+    <file name="logo.png" crc="3908699024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8mahtah.png" crc="394523176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freelance.png" crc="454031670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teacher-desk.png" crc="524329449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vivid.png" crc="369284610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havas.png" crc="4213411131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="digital age.png" crc="211542217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="organized logo.png" crc="407636968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the game director logo-2 copy.png" crc="4063129379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21july2017_final_logo-01.png" crc="4068136793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1@3x.png" crc="3828187370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gems-logo-transparent-low.png" crc="3842705995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teeth - health profile-01.png" crc="3932339155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prosperous pharma.png" crc="185813721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clinch logo with white-01.png" crc="250775469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sss logo.png" crc="4022645738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beirut-adha-festival-logo-low.png" crc="4281311610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo color.png" crc="4282386037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nard logo final-01.png" crc="531935797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="fb-logo-(black_svg).svg" crc="61187214" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="fb logo (black_svg)_poster_.png" crc="127364804" ref="index"/>
+    <file name="fb-logo-(black_svg)_poster_.png" crc="217893877" ref="index"/>
     <file name="twitter-logo-(black_svg).svg" crc="88690003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter logo (black_svg)_poster_.png" crc="4081438414" ref="index"/>
+    <file name="twitter-logo-(black_svg)_poster_.png" crc="173633656" ref="index"/>
     <file name="linkedin-logo-(black_svg).svg" crc="141029368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="linkedin logo (black_svg)_poster_.png" crc="3922476296" ref="index"/>
-    <file name="instagram-logo-(black_svg).svg" crc="4168066208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram logo (black_svg)_poster_.png" crc="4159427888" ref="index"/>
-    <file name="u5701-4.png" crc="4254323779" ref="index"/>
-    <file name="a-master-copy-favicon.ico" crc="117845916" ref="coming-soon"/>
-    <file name="mah website bg-01-01.jpg" crc="3950151874" ref="coming-soon">
-      <caption webpage="coming-soon" alt=""/>
+    <file name="linkedin-logo-(black_svg)_poster_.png" crc="4003350717" ref="index"/>
+    <file name="instagram-logo-(black_svg).svg" crc="4168066208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="mah website pattern smaller-01-buttonu6187-fr.png" crc="4073060437" ref="coming-soon"/>
-    <file name="u6069-4.png" crc="348402529" ref="coming-soon"/>
-    <file name="u6334-4.png" crc="74004034" ref="sinjaba-group"/>
-    <file name="u6378-4.png" crc="3791760020" ref="sinjaba-group"/>
-    <file name="u6439-4.png" crc="4126979128" ref="sinjaba-group"/>
-    <file name="pasted-svg-4932x128.svg" crc="3844439126" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="instagram-logo-(black_svg)_poster_.png" crc="419472650" ref="index"/>
+    <file name="asset 6mahtah243x257.png" crc="491606555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 4932x128_poster_.png" crc="233574531" ref="sinjaba-group"/>
-    <file name="u6874-4.png" crc="4024530498" ref="sinjaba-group"/>
-    <file name="sinjaba-personality.svg" crc="487292728" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="asset 2mahtah556x306.png" crc="131680495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="sinjaba personality_poster_.png" crc="516998963" ref="sinjaba-group"/>
-    <file name="geo.svg" crc="65593812" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="me new flipped285x384.png" crc="3942206714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="geo_poster_.png" crc="3819560156" ref="sinjaba-group"/>
-    <file name="gender.svg" crc="4157763071" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="coursera122x93.jpg" crc="304325304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="gender_poster_.png" crc="72122438" ref="sinjaba-group"/>
-    <file name="age.svg" crc="3965429642" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="asset 1@3x115x79.png" crc="4191278833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="age_poster_.png" crc="4027433298" ref="sinjaba-group"/>
-    <file name="behavior.svg" crc="427735741" seo="true" ref="sinjaba-group">
-      <caption webpage="sinjaba-group" alt=""/>
+    <file name="asset 6mahtah199x210.png" crc="491606555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="behavior_poster_.png" crc="221118185" ref="sinjaba-group"/>
+    <file name="asset 2mahtah303x167.png" crc="3997019053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="me new flipped187x253.png" crc="4262843987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coursera163x125.jpg" crc="334428302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1@3x129x88.png" crc="3828187370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="77172493" seo="true" mt="1515065795739" redirect="true"/>
-  <file name="about.html" crc="3825387234" seo="true" mt="1514985910557" redirect="true"/>
-  <file name="portfolio.html" crc="4124074607" seo="true" mt="1514985910557" redirect="true"/>
-  <file name="blog.html" crc="260336589" seo="true" mt="1514985910557" redirect="true"/>
-  <file name="curriculum-vitae.html" crc="394110595" seo="true" mt="1514985910557" redirect="true"/>
-  <file name="coming-soon.html" crc="3778263145" seo="true" mt="1515065795742" redirect="true"/>
-  <file name="sinjaba-group.html" crc="531690003" seo="true" mt="1515000362470" redirect="true"/>
-  <file name="services.html" crc="4045305516" seo="true" mt="1514987558885" redirect="true"/>
+  <file name="index.html" crc="3996482968" seo="true" mt="1538688361617" redirect="true"/>
 </manifest>
