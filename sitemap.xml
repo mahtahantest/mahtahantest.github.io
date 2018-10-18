@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.mahmoudtahan.com/index.html</loc>
-    <lastmod>2018-10-05</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -21,9 +21,6 @@
       <image:loc>http://www.mahmoudtahan.com/images/asset%203mahtah.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%207mahtah.png</image:loc>
     </image:image>
     <image:image>
@@ -34,90 +31,114 @@
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%209mahtah.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/coursera.jpg</image:loc>
+      <image:caption>Mahmoud Tahan BA Graphic Design Certificate</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/1200px-northwestern_university_sealsvg.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/hs-marketing-inbound-certification%202.png</image:loc>
+      <image:caption>Mahmoud Tahan Inbound Marketing Certificate</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/fb%20b-w.png</image:loc>
+      <image:caption>Mahmoud Tahan Facebook Certificate, Blueprint Certificate</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/google%20b-w.png</image:loc>
+      <image:caption>Mahmoud Tahan Google Adwords Certificate</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/logo.png</image:loc>
+      <image:caption>Plus One Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%208mahtah.png</image:loc>
+      <image:caption>Digital Hacks Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/freelance.png</image:loc>
+      <image:caption>Freelancer Mahmoud Tahan</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/teacher-desk.png</image:loc>
+      <image:caption>Teacher Mahmoud Tahan</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/vivid.png</image:loc>
+      <image:caption>Vivid Design Agency Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/havas.png</image:loc>
+      <image:caption>Havas WorldWide Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/digital%20age.png</image:loc>
+      <image:caption>Digital Age Agency Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/organized%20logo.png</image:loc>
+      <image:caption>Organized Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/the%20game%20director%20logo-2%20copy.png</image:loc>
+      <image:caption>The Game Director Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/21july2017_final_logo-01.png</image:loc>
+      <image:caption>Yours Truly, Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x.png</image:loc>
+      <image:caption>Sinjaba Group Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/gems-logo-transparent-low.png</image:loc>
+      <image:caption>Gems Hotel Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/teeth%20-%20health%20profile-01.png</image:loc>
+      <image:caption>Teeth &amp; Health Pediatric Clinic Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/prosperous%20pharma.png</image:loc>
+      <image:caption>Prosperous Pharma Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/clinch%20logo%20with%20white-01.png</image:loc>
+      <image:caption>Clinch YOKKAO Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/sss%20logo.png</image:loc>
+      <image:caption>SSS Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/beirut-adha-festival-logo-low.png</image:loc>
+      <image:caption>Beirut International Adha Festival Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/logo%20color.png</image:loc>
+      <image:caption>Kelna Beirut Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/nard%20logo%20final-01.png</image:loc>
+      <image:caption>Al Nard Logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/fb-logo-(black_svg).svg</image:loc>
+      <image:caption>Facebook Icon</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/twitter-logo-(black_svg).svg</image:loc>
+      <image:caption>Twitter Icon</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/linkedin-logo-(black_svg).svg</image:loc>
+      <image:caption>LinkedIn Icon</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/instagram-logo-(black_svg).svg</image:loc>
+      <image:caption>Instagram Icon</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah243x257.png</image:loc>
@@ -126,43 +147,70 @@
       <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah556x306.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped285x384.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/coursera122x93.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x115x79.png</image:loc>
+      <image:caption>Sinjaba Group Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah199x210.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/mah%20new%203-crop-u5591.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah303x167.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/coursera.png</image:loc>
+      <image:caption>Mahmoud Tahan Social Media Certificate</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped187x253.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/bhive%20logo%20png-01.png</image:loc>
+      <image:caption>BHive Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/coursera163x125.jpg</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/mah%20new%203-crop-u55912.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x129x88.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah172x181.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah151x160.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah247x136.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah230x127.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/mah%20new%203-crop-u55913.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped142x192.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x111x76.png</image:loc>
+      <image:caption>Sinjaba Group Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/coursera124x95.jpg</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah156x164.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x98x67.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah237x131.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/mah%20new%203-crop-u55914.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x101x69.png</image:loc>
+      <image:caption>Sinjaba Group Logo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.mahmoudtahan.com/coming-soon.html</loc>
+    <lastmod>2018-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/fb-logo-(black_svg).svg</image:loc>
+      <image:caption>Facebook Icon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/twitter-logo-(black_svg).svg</image:loc>
+      <image:caption>Twitter Icon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/linkedin-logo-(black_svg).svg</image:loc>
+      <image:caption>LinkedIn Icon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/instagram-logo-(black_svg).svg</image:loc>
+      <image:caption>Instagram Icon</image:caption>
     </image:image>
   </url>
   <url>
