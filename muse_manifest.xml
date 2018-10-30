@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahmoudtahan.com" resolutions="1x" timestamp="1539888492800">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahmoudtahan.com" resolutions="1x" timestamp="1539888778305">
   <folder name="css">
-    <file name="site_global.css" crc="4206927764"/>
+    <file name="site_global.css" crc="4011474223"/>
     <file name="master_a-master.css" crc="4172526323" ref="index:coming-soon"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:coming-soon"/>
-    <file name="index.css" crc="342096606" ref="index"/>
-    <file name="nomq_index.css" crc="53546534" ref="index"/>
-    <file name="iefonts_index.css" crc="58251212" ref="index"/>
-    <file name="coming-soon.css" crc="4210605210" ref="coming-soon"/>
+    <file name="index.css" crc="4228054159" ref="index"/>
+    <file name="nomq_index.css" crc="3762733618" ref="index"/>
+    <file name="iefonts_index.css" crc="478570203" ref="index"/>
+    <file name="coming-soon.css" crc="3812879167" ref="coming-soon"/>
     <file name="nomq_coming-soon.css" crc="163085653" ref="coming-soon"/>
   </folder>
   <folder name="assets">
@@ -338,6 +338,6 @@
       <caption webpage="index" alt="Sinjaba Group Logo"/>
     </file>
   </folder>
-  <file name="index.html" crc="41876916" seo="true" mt="1539888423363" redirect="true"/>
-  <file name="coming-soon.html" crc="4202155204" seo="true" mt="1539887495252" redirect="true"/>
+  <file name="index.html" crc="4112490559" seo="true" mt="1539888763370" redirect="true"/>
+  <file name="coming-soon.html" crc="141085649" seo="true" mt="1539888704858" redirect="true"/>
 </manifest>
