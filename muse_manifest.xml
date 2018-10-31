@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahmoudtahan.com" resolutions="1x" timestamp="1539888778305">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mahmoudtahan.com" resolutions="1x" timestamp="1541014182109">
   <folder name="css">
     <file name="site_global.css" crc="4011474223"/>
-    <file name="master_a-master.css" crc="4172526323" ref="index:coming-soon"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:coming-soon"/>
-    <file name="index.css" crc="4228054159" ref="index"/>
-    <file name="nomq_index.css" crc="3762733618" ref="index"/>
+    <file name="master_a-master.css" crc="411884375" ref="coming-soon:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="356738707" ref="coming-soon:index"/>
+    <file name="coming-soon.css" crc="295324351" ref="coming-soon"/>
+    <file name="nomq_coming-soon.css" crc="4125694673" ref="coming-soon"/>
+    <file name="index.css" crc="4104667395" ref="index"/>
+    <file name="nomq_index.css" crc="99769029" ref="index"/>
     <file name="iefonts_index.css" crc="478570203" ref="index"/>
-    <file name="coming-soon.css" crc="3812879167" ref="coming-soon"/>
-    <file name="nomq_coming-soon.css" crc="163085653" ref="coming-soon"/>
   </folder>
   <folder name="assets">
     <file name="logo.svg" crc="4090461190" seo="true" mt="1514721514000"/>
@@ -24,6 +24,42 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="117845916" ref="index"/>
     <file name="u112-5.png" crc="158152437" ref="index:coming-soon"/>
+    <file name="fb-logo-(black_svg).svg" crc="61187214" seo="true" ref="index:coming-soon">
+      <caption webpage="index" alt="Facebook Icon"/>
+      <caption webpage="index" alt="Facebook Icon"/>
+      <caption webpage="index" alt="Facebook Icon"/>
+      <caption webpage="index" alt="Facebook Icon"/>
+      <caption webpage="index" alt="Facebook Icon"/>
+      <caption webpage="coming-soon" alt="Facebook Icon"/>
+    </file>
+    <file name="fb-logo-(black_svg)_poster_.png" crc="217893877" ref="index"/>
+    <file name="instagram-logo-(black_svg).svg" crc="4168066208" seo="true" ref="index:coming-soon">
+      <caption webpage="index" alt="Instagram Icon"/>
+      <caption webpage="index" alt="Instagram Icon"/>
+      <caption webpage="index" alt="Instagram Icon"/>
+      <caption webpage="index" alt="Instagram Icon"/>
+      <caption webpage="index" alt="Instagram Icon"/>
+      <caption webpage="coming-soon" alt="Instagram Icon"/>
+    </file>
+    <file name="instagram-logo-(black_svg)_poster_.png" crc="419472650" ref="index"/>
+    <file name="linkedin-logo-(black_svg).svg" crc="141029368" seo="true" ref="index:coming-soon">
+      <caption webpage="index" alt="LinkedIn Icon"/>
+      <caption webpage="index" alt="LinkedIn Icon"/>
+      <caption webpage="index" alt="LinkedIn Icon"/>
+      <caption webpage="index" alt="LinkedIn Icon"/>
+      <caption webpage="index" alt="LinkedIn Icon"/>
+      <caption webpage="coming-soon" alt="LinkedIn Icon"/>
+    </file>
+    <file name="linkedin-logo-(black_svg)_poster_.png" crc="4003350717" ref="index"/>
+    <file name="twitter-logo-(black_svg).svg" crc="88690003" seo="true" ref="index:coming-soon">
+      <caption webpage="index" alt="Twitter Icon"/>
+      <caption webpage="index" alt="Twitter Icon"/>
+      <caption webpage="index" alt="Twitter Icon"/>
+      <caption webpage="index" alt="Twitter Icon"/>
+      <caption webpage="index" alt="Twitter Icon"/>
+      <caption webpage="coming-soon" alt="Twitter Icon"/>
+    </file>
+    <file name="twitter-logo-(black_svg)_poster_.png" crc="173633656" ref="index"/>
     <file name="element07.svg" crc="4073776678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -61,6 +97,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="me new flipped-crop-u5591.png" crc="4156258354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="asset 7mahtah.png" crc="4153638516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -88,6 +127,12 @@
       <caption webpage="index" alt="Mahmoud Tahan BA Graphic Design Certificate"/>
       <caption webpage="index" alt="Mahmoud Tahan BA Graphic Design Certificate"/>
       <caption webpage="index" alt="Mahmoud Tahan BA Graphic Design Certificate"/>
+    </file>
+    <file name="coursera.png" crc="37745809" seo="true" ref="index">
+      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
+      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
+      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
+      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
     </file>
     <file name="1200px-northwestern_university_sealsvg.png" crc="26359691" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -168,26 +213,26 @@
       <caption webpage="index" alt="The Game Director Logo"/>
       <caption webpage="index" alt="The Game Director Logo"/>
     </file>
+    <file name="asset 1@3x.png" crc="3828187370" seo="true" ref="index">
+      <caption webpage="index" alt="Sinjaba Group Logo"/>
+    </file>
     <file name="21july2017_final_logo-01.png" crc="4068136793" seo="true" ref="index">
       <caption webpage="index" alt="Yours Truly, Logo"/>
       <caption webpage="index" alt="Yours Truly, Logo"/>
       <caption webpage="index" alt="Yours Truly, Logo"/>
       <caption webpage="index" alt="Yours Truly, Logo"/>
     </file>
-    <file name="asset 1@3x.png" crc="3828187370" seo="true" ref="index">
-      <caption webpage="index" alt="Sinjaba Group Logo"/>
+    <file name="teeth - health profile-01.png" crc="39693216" seo="true" ref="index">
+      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
+      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
+      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
+      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
     </file>
     <file name="gems-logo-transparent-low.png" crc="3768940322" seo="true" ref="index">
       <caption webpage="index" alt="Gems Hotel Logo"/>
       <caption webpage="index" alt="Gems Hotel Logo"/>
       <caption webpage="index" alt="Gems Hotel Logo"/>
       <caption webpage="index" alt="Gems Hotel Logo"/>
-    </file>
-    <file name="teeth - health profile-01.png" crc="39693216" seo="true" ref="index">
-      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
-      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
-      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
-      <caption webpage="index" alt="Teeth &amp; Health Pediatric Clinic Logo"/>
     </file>
     <file name="prosperous pharma.png" crc="51244336" seo="true" ref="index">
       <caption webpage="index" alt="Prosperous Pharma Logo"/>
@@ -201,6 +246,12 @@
       <caption webpage="index" alt="Clinch YOKKAO Logo"/>
       <caption webpage="index" alt="Clinch YOKKAO Logo"/>
     </file>
+    <file name="logo color.png" crc="157101197" seo="true" ref="index">
+      <caption webpage="index" alt="Kelna Beirut Logo"/>
+      <caption webpage="index" alt="Kelna Beirut Logo"/>
+      <caption webpage="index" alt="Kelna Beirut Logo"/>
+      <caption webpage="index" alt="Kelna Beirut Logo"/>
+    </file>
     <file name="sss logo.png" crc="4080578457" seo="true" ref="index">
       <caption webpage="index" alt="SSS Logo"/>
       <caption webpage="index" alt="SSS Logo"/>
@@ -213,11 +264,11 @@
       <caption webpage="index" alt="Beirut International Adha Festival Logo"/>
       <caption webpage="index" alt="Beirut International Adha Festival Logo"/>
     </file>
-    <file name="logo color.png" crc="157101197" seo="true" ref="index">
-      <caption webpage="index" alt="Kelna Beirut Logo"/>
-      <caption webpage="index" alt="Kelna Beirut Logo"/>
-      <caption webpage="index" alt="Kelna Beirut Logo"/>
-      <caption webpage="index" alt="Kelna Beirut Logo"/>
+    <file name="bhive logo png-01.png" crc="289728516" seo="true" ref="index">
+      <caption webpage="index" alt="BHive Logo"/>
+      <caption webpage="index" alt="BHive Logo"/>
+      <caption webpage="index" alt="BHive Logo"/>
+      <caption webpage="index" alt="BHive Logo"/>
     </file>
     <file name="nard logo final-01.png" crc="307971857" seo="true" ref="index">
       <caption webpage="index" alt="Al Nard Logo"/>
@@ -225,93 +276,17 @@
       <caption webpage="index" alt="Al Nard Logo"/>
       <caption webpage="index" alt="Al Nard Logo"/>
     </file>
-    <file name="fb-logo-(black_svg).svg" crc="61187214" seo="true" ref="index:coming-soon">
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="index" alt="Facebook Icon"/>
-      <caption webpage="coming-soon" alt="Facebook Icon"/>
-      <caption webpage="coming-soon" alt="Facebook Icon"/>
-      <caption webpage="coming-soon" alt="Facebook Icon"/>
-      <caption webpage="coming-soon" alt="Facebook Icon"/>
-    </file>
-    <file name="fb-logo-(black_svg)_poster_.png" crc="217893877" ref="index"/>
-    <file name="twitter-logo-(black_svg).svg" crc="88690003" seo="true" ref="index:coming-soon">
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="index" alt="Twitter Icon"/>
-      <caption webpage="coming-soon" alt="Twitter Icon"/>
-      <caption webpage="coming-soon" alt="Twitter Icon"/>
-      <caption webpage="coming-soon" alt="Twitter Icon"/>
-      <caption webpage="coming-soon" alt="Twitter Icon"/>
-    </file>
-    <file name="twitter-logo-(black_svg)_poster_.png" crc="173633656" ref="index"/>
-    <file name="linkedin-logo-(black_svg).svg" crc="141029368" seo="true" ref="index:coming-soon">
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="index" alt="LinkedIn Icon"/>
-      <caption webpage="coming-soon" alt="LinkedIn Icon"/>
-      <caption webpage="coming-soon" alt="LinkedIn Icon"/>
-      <caption webpage="coming-soon" alt="LinkedIn Icon"/>
-      <caption webpage="coming-soon" alt="LinkedIn Icon"/>
-    </file>
-    <file name="linkedin-logo-(black_svg)_poster_.png" crc="4003350717" ref="index"/>
-    <file name="instagram-logo-(black_svg).svg" crc="4168066208" seo="true" ref="index:coming-soon">
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="index" alt="Instagram Icon"/>
-      <caption webpage="coming-soon" alt="Instagram Icon"/>
-      <caption webpage="coming-soon" alt="Instagram Icon"/>
-      <caption webpage="coming-soon" alt="Instagram Icon"/>
-      <caption webpage="coming-soon" alt="Instagram Icon"/>
-    </file>
-    <file name="instagram-logo-(black_svg)_poster_.png" crc="419472650" ref="index"/>
     <file name="asset 6mahtah243x257.png" crc="491606555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 2mahtah556x306.png" crc="3912577992" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="me new flipped-crop-u55912.png" crc="45547234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="asset 1@3x115x79.png" crc="4191278833" seo="true" ref="index">
       <caption webpage="index" alt="Sinjaba Group Logo"/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:coming-soon"/>
-    <file name="mah new 3-crop-u5591.png" crc="3802720936" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="coursera.png" crc="37745809" seo="true" ref="index">
-      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
-      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
-      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
-      <caption webpage="index" alt="Mahmoud Tahan Social Media Certificate"/>
-    </file>
-    <file name="bhive logo png-01.png" crc="289728516" seo="true" ref="index">
-      <caption webpage="index" alt="BHive Logo"/>
-      <caption webpage="index" alt="BHive Logo"/>
-      <caption webpage="index" alt="BHive Logo"/>
-      <caption webpage="index" alt="BHive Logo"/>
-    </file>
-    <file name="mah new 3-crop-u55912.png" crc="3845730529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 6mahtah172x181.png" crc="4084912078" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -319,7 +294,7 @@
     <file name="asset 2mahtah247x136.png" crc="182661762" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mah new 3-crop-u55913.png" crc="346815791" seo="true" ref="index">
+    <file name="me new flipped-crop-u55913.png" crc="4015149295" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 1@3x111x76.png" crc="462615849" seo="true" ref="index">
@@ -331,13 +306,14 @@
     <file name="asset 2mahtah237x131.png" crc="4135065195" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mah new 3-crop-u55914.png" crc="3975980041" seo="true" ref="index">
+    <file name="me new flipped-crop-u55914.png" crc="40537322" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 1@3x101x69.png" crc="458998542" seo="true" ref="index">
       <caption webpage="index" alt="Sinjaba Group Logo"/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:coming-soon"/>
   </folder>
-  <file name="index.html" crc="4112490559" seo="true" mt="1539888763370" redirect="true"/>
-  <file name="coming-soon.html" crc="141085649" seo="true" mt="1539888704858" redirect="true"/>
+  <file name="index.html" crc="3977727766" seo="true" mt="1541014055119" redirect="true"/>
+  <file name="coming-soon.html" crc="4271846008" seo="true" mt="1540943147064" redirect="true"/>
 </manifest>
