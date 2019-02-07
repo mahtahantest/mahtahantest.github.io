@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.mahmoudtahan.com/index.html</loc>
-    <lastmod>2018-10-31</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,22 +22,19 @@
       <image:caption>Twitter Icon</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/element07.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%203mahtah.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201mahtah.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/element07.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah-crop-u512.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%203mahtah.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped-crop-u5591.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%207mahtah.png</image:loc>
@@ -152,39 +149,30 @@
       <image:caption>Al Nard Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah243x257.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah-crop-u5122.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah556x306.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped-crop-u55912.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x115x79.png</image:loc>
       <image:caption>Sinjaba Group Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah172x181.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah-crop-u5123.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah247x136.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped-crop-u55913.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x111x76.png</image:loc>
       <image:caption>Sinjaba Group Logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah156x164.png</image:loc>
+      <image:loc>http://www.mahmoudtahan.com/images/asset%206mahtah-crop-u5124.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%202mahtah237x131.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.mahmoudtahan.com/images/me%20new%20flipped-crop-u55914.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.mahmoudtahan.com/images/asset%201@3x101x69.png</image:loc>
